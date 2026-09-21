@@ -5,5 +5,5 @@ Properties used :-
 1. divs and basic styling
 2. positional attributes
 3. border styling
-4. FLexbox
+4. Flexbox
 5. display property
